@@ -1,5 +1,4 @@
 import 'dart:math';
-import 'dart:math';
 
 void main() {
   int rnd = Random().nextInt(8);
