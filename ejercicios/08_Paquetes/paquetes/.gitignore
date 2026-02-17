@@ -1,0 +1,13 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+.packages
+
+# Remove the following line if you have checked in a `pubspec.lock` file.
+pubspec.lock
+
+# Conventional directory for build outputs.
+build/
+
+# Directory created by `dart doc` to hold generated documentation.
+doc/api/
